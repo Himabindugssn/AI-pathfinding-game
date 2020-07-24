@@ -5,7 +5,7 @@
 
 Link to the github repo :
 
-Link to the game : 
+Link to the game : https://himabindugssn.github.io/Mars_Rover-AI-pathfinding-Game-MARS-COLONIZATION-PROGRAM-/game/index.html
 
 ---
 # Outline :
