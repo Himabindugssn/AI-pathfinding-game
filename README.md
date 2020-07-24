@@ -1,6 +1,5 @@
-# PROJECT REPORT
- (Pathfinding Project)
- A game which uses A star algorithm to find the shortest path.
+# PATHFINDING PROJECT REPORT
+A game which uses A star algorithm to find the shortest path.
 ----------
 
 Link to the github repo : https://github.com/Himabindugssn/Mars_Rover-AI-pathfinding-Game-MARS-COLONIZATION-PROGRAM-
