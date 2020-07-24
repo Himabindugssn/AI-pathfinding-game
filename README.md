@@ -19,8 +19,8 @@ Link to the game : https://himabindugssn.github.io/Mars_Rover-AI-pathfinding-Gam
 - Programming Language
 
 ## What I could implement
--Implemented A star algorithm
--Optimization
+- Implemented A star algorithm
+- Optimization
 
 ## What I couldn’t implement
 
