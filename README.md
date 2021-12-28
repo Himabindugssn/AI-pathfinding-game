@@ -1,7 +1,7 @@
 # PATHFINDING PROJECT REPORT
-A game which uses A star algorithm to find the shortest path.
+A simulation where A star algorithm has been used to find the shortest path.
 ----------
-Link to the game : https://himabindugssn.github.io/AI-pathfinding-game/game/index.html
+Link to the simulation : https://himabindugssn.github.io/AI-pathfinding-game/game/index.html
 
 ---
 # Outline :
